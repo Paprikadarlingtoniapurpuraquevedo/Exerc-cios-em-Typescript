@@ -1,0 +1,5 @@
+var num:number=10
+while(num>0){
+    console.log("Funciona")
+    num=1
+}
